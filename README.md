@@ -3,6 +3,7 @@
   <sup>Posterpole Zellij</sup> 
 </h1>
 <p align="center">Theme with pastel colors which try to emulate an old retro poster vibe</p>
+<img width="1942" alt="Screenshot 2025-01-07 at 08 41 19" src="https://github.com/user-attachments/assets/d0c965ce-baf2-42d2-9cca-fb0f6dad5c05" />
 
 ## Installation
 To apply this theme you need to:
